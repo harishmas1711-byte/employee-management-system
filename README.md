@@ -1,1 +1,1 @@
-https://employee-management-xg5b.bolt.hostp
+https://employee-management-xg5b.bolt.host
